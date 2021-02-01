@@ -4076,3 +4076,12 @@ h2{
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+
+
+	@media screen and (min-width: 300px) and (max-width: 800px){
+
+		.video{
+			width: 100%;
+			height: 100%;
+		}
+	}
