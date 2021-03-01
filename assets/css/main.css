@@ -4166,6 +4166,15 @@ h2{
 		}
 	}
 
+	@media screen and (min-width: 860px) and (max-width: 1400px){
+
+		#donuts{
+			width: 500px;
+			height: 400px;
+		}
+	}
+
+
 
 	@media screen and (min-width: 500px) and (max-width: 860px){
 
