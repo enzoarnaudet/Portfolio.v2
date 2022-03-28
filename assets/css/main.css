@@ -4201,4 +4201,69 @@ h2{
 		}
 	}
 
+
+	
+
+
+
+
+
+
+
+
+
+	@media screen and (min-width: 500px) and (max-width: 860px){
+
+		#showreel{
+			width: 700px;
+			height: 400px;
+		}
+	}
+
+	@media screen and (min-width: 499px) and (max-width: 750px){
+
+		#showreel{
+			width: 600px;
+			height: 400px;
+		}
+	}
+
+
+	@media screen and (min-width: 499px) and (max-width: 630px){
+
+		#showreel{
+			width: 500px;
+			height: 400px;
+		}
+	}
+
+	
+	@media screen and (min-width: 850px) and (max-width: 1400px){
+
+		#showreel{
+			width: 1000px;
+			height: 400px;
+		}
+	}
+
+	
+	@media screen and (min-width: 750px) and (max-width: 1200px){
+
+		#showreel{
+			width: 900px;
+			height: 400px;
+		}
+	}
+
+
+	
+	
+	@media screen and (min-width: 400px) and (max-width: 900px){
+
+		#showreel{
+			width: 450px;
+			height: 250px;
+		}
+	}
+
 	
