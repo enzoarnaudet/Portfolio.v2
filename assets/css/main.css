@@ -4346,3 +4346,23 @@ h2{
 		}
 	}
 
+	
+
+
+	@media screen and (min-width: 300px) and (max-width: 800px){
+
+		.video{
+			width: 100%;
+			height: 100%;
+		}
+	}
+
+	@media screen and (min-width: 850px) and (max-width: 1400px){
+
+		.video{
+			width: 1000px;
+			height: 400px;
+		}
+	}
+
+
