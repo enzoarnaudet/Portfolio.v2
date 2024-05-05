@@ -3065,7 +3065,7 @@ p{
 			}
 .moi{
 	color: white;
-	font-size: 30px;
+	font-size: 35px;
 }
 			.wrapper.style3 blockquote {
 				border-color: rgba(0, 0, 0, 0.125);
@@ -4216,8 +4216,8 @@ h2{
 	@media screen and (min-width: 300px) and (max-width: 800px){
 
 		#background-video{
-			min-width: 100%;
-			min-height: 100%;
+			min-width: 50%;
+			min-height: 50%;
 		}
 	}
 
